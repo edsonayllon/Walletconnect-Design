@@ -1,2 +1,5 @@
 # Walletconnect Design
- Shirt design for Walletconnect
+
+ Simple designer shirt design communicating the utility of Walletconnect. See repository for all files and images.
+
+ ![](./png/shirt.png)
