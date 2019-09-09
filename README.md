@@ -4,4 +4,4 @@
 
  ![](./png/shirt.png)
 
-![](https://media.giphy.com/media/RHJjogamfp4Qm4D9pz/giphy.mp4)
+![](https://media.giphy.com/media/RHJjogamfp4Qm4D9pz/giphy.gif)
